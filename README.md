@@ -3,7 +3,7 @@ TITLE:
 Luxe - 100% Fully Responsive Free HTML5 template
 
 AUTHOR:
-DESIGNED & DEVELOPED by Ayush(https://github.com/aayushverma246-ai) And Shivam(https://github.com/shivaaycodes)
+DESIGNED & DEVELOPED by Ayush Verma, Shivam Kumar and Ayush Bharti
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
